@@ -1,6 +1,3 @@
-Code ref : 
-
-https://github.com/harshraj3223/Automated-Detection-and-Localization-of-Myocardial-Infarction-Research-Project
 
 
 dataset: 
