@@ -77,5 +77,6 @@ This project is a solid foundation for automated MI detection, but there is alwa
 ## Acknowledgments
 
 - [PhysioNet](https://physionet.org) for providing the PTB-XL dataset.
+  
 Please feel free to contribute, suggest improvements, or use this project for your own research and applications related to myocardial infarction detection. Thank you for your interest and support!
 
